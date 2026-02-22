@@ -11,24 +11,24 @@
 <td width="38%" valign="top" align="left">
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/kgm7ZJz5LtoyX2Z2N2/giphy.gif" width="100%" style="border-radius:10px"/>
+  <img src="https://i.giphy.com/fV76W3Vw9Pxj4TSOeV.webp" width="100%" style="border-radius:10px"/>
 </div>
 
 ### About Me
 
-- 🎓 B.Tech AI · Newton School of Tech
-- 💼 Frontend Intern @ **IR-INFOTECH**
-- 🤖 OpenAI · LangChain · AI-Integrated Apps
-- 🧩 100+ LeetCode · **1550+** Rating
-- ⚔️ Codeforces **800+** Rating
-- 🚀 Full Stack · Scalable · Real-time Systems
+- B.Tech AI · Newton School of Tech
+- Frontend Intern @ **IR-INFOTECH**
+- OpenAI · LangChain · AI-Integrated Apps
+- 100+ LeetCode · **1550+** Rating
+- Codeforces **800+** Rating
+- Full Stack · Scalable · Real-time Systems
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Codeforces](https://img.shields.io/badge/CF-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-yadav-209273323/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-website-jade-sigma.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/mayank_thukran25/)
+[![Codeforces](https://img.shields.io/badge/CF-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mayank_thukran25)
 
 </td>
 <td width="58%" valign="top">
@@ -56,7 +56,6 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=6"/>
 &nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 <br/>
 
@@ -64,8 +63,6 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase&theme=dark&perline=6"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white"/>
 &nbsp;<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 </div>
