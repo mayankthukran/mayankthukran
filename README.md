@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Mayank%20Yadav&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20DSA%20Grinder&descAlignY=63&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a3e,100:0d0d1a&height=130&section=header&text=Mayank%20Yadav&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20DSA%20Grinder&descAlignY=63&descSize=14&descColor=a0a8d0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=⚛️+React+%7C+Node.js+%7C+Next.js+%7C+TypeScript;🤖+OpenAI+%7C+LangChain+%7C+AI-Integrated+Apps;💡+100%2B+LeetCode+%7C+1550%2B+Rating+%7C+Frontend+%40+IR-INFOTECH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=7EB8FF&center=true&vCenter=true&width=650&lines=⚛️+React+%7C+Node.js+%7C+Next.js+%7C+TypeScript;🤖+OpenAI+%7C+LangChain+%7C+AI-Integrated+Apps;💡+100%2B+LeetCode+%7C+1550%2B+Rating+%7C+Frontend+%40+IR-INFOTECH)](https://git.io/typing-svg)
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 <td width="38%" valign="top" align="left">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius:12px"/>
 </div>
 
 ### About Me
@@ -77,5 +77,5 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a3e,100:0d0d1a&height=80&section=footer"/>
 </div>
