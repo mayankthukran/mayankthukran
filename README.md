@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:0a0a2e,60:0d1b3e,100:050510&height=130&section=header&text=Mayank%20Yadav&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20DSA%20Grinder&descAlignY=63&descSize=14&descColor=8899cc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=130&section=header&text=Mayank%20Yadav&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20DSA%20Grinder&descAlignY=63&descSize=14"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=5B9EFF&center=true&vCenter=true&width=650&lines=⚛️+React+%7C+Node.js+%7C+Next.js+%7C+TypeScript;🤖+OpenAI+%7C+LangChain+%7C+AI-Integrated+Apps;💡+100%2B+LeetCode+%7C+1550%2B+Rating+%7C+Frontend+%40+IR-INFOTECH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=⚛️+React+%7C+Node.js+%7C+Next.js+%7C+TypeScript;🤖+OpenAI+%7C+LangChain+%7C+AI-Integrated+Apps;💡+100%2B+LeetCode+%7C+1550%2B+Rating+%7C+Frontend+%40+IR-INFOTECH)](https://git.io/typing-svg)
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 <td width="38%" valign="top" align="left">
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFlN2Zrem40N3AwNnI0YWJwYmhndWZraDkwMWczNTJlZ2s1dWVwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgm7ZJz5LtoyX2Z2N2/giphy.gif)" width="100%" style="border-radius:10px"/>
+  <img src="https://media4.giphy.com/media/kgm7ZJz5LtoyX2Z2N2/giphy.gif" width="100%" style="border-radius:10px"/>
 </div>
 
 ### About Me
@@ -77,5 +77,5 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:0a0a2e,60:0d1b3e,100:050510&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=80&section=footer"/>
 </div>
