@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mayank%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20DSA%20Grinder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&width=600&lines=B.Tech+AI+%40+Newton+School+of+Technology;Full+Stack+Developer+%F0%9F%9A%80;100%2B+LeetCode+%7C+1550%2B+Rating+%F0%9F%94%A5;800%2B+Codeforces+Rating+%E2%9A%94%EF%B8%8F;Building+Scalable+%26+AI-Integrated+Apps+%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7FDBFF&center=true&vCenter=true&width=650&lines=B.Tech+AI+%40+Newton+School+of+Technology+%F0%9F%8E%93;Full+Stack+Developer+building+real+products+%F0%9F%9A%80;100%2B+LeetCode+%7C+1550%2B+Rating+%F0%9F%94%A5;Turning+ideas+into+AI-powered+apps+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
@@ -22,94 +19,31 @@
 
 ## 🧠 About Me
 
-```ts
-const mayank = {
-  name: "Mayank Yadav",
-  education: "B.Tech AI @ Newton School of Technology, Rishihood University (2024–2028)",
-  location: "India 🇮🇳",
-  role: "Aspiring Full Stack Developer",
-  interests: ["Full Stack Dev", "AI/ML", "DSA"],
-  competitive: {
-    leetcode: "100+ problems | 1550+ Rating",
-    codeforces: "800+ Rating",
-  },
-  currentlyLearning: ["LangChain", "LangGraph", "Prisma ORM", "AI-Integrated Apps"],
-  funFact: "I turn coffee ☕ and late nights 🌙 into production-ready apps 🚀"
-};
-```
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+Hey there! I'm **Mayank** — a B.Tech AI student at **Newton School of Technology** who's obsessed with building things that actually work in the real world.
+
+I live at the intersection of **Full Stack Development** and **Artificial Intelligence**, crafting apps that are fast, scalable, and a little bit smart. Whether it's wiring up a REST API at midnight or integrating an LLM to make a product feel magical — I'm in.
+
+- 🎓 **B.Tech in Artificial Intelligence** (2024–2028) — GPA: 8.0/10
+- 💼 Previously interned as a **Frontend Dev** @ IR-INFOTECH
+- 🧩 Solved **100+ LeetCode** problems with a **1550+ rating**
+- ⚔️ **800+ rated** on Codeforces — DSA is my cardio
+- 🌱 Currently exploring **LangChain**, **LangGraph** & Agentic AI systems
+- 🛠️ I build with: React, Next.js, Node.js, MongoDB, and whatever the problem needs
+- 📬 Reach me at **mayank.yadav2024@nst.rishihood.edu.in**
+
+> *"I don't just write code — I build experiences."*
+
+<br clear="right"/>
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Frontend Developer Intern — IR-INFOTECH *(May 2025 – Aug 2025)*
-> *Remote/Virtual*
+### 🏢 Frontend Developer Intern — **IR-INFOTECH** *(May 2025 – Aug 2025 · Remote)*
 
-- 🔧 Built responsive UIs using **React.js**, **Next.js (SSR)**, and **Ant Design**
-- ⚡ Optimized reusable components achieving **20–30% faster load times**
-- 🐛 Reduced UI bugs by **40%** through rigorous debugging and component architecture
-- 🤝 Collaborated in a fast-paced team using **Git / GitHub / GitLab**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 BookBuddy *(Nov 2025)*
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com) [![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat)](https://demo.com)
-
-A full-stack **personal reading management system** with:
-- 🔐 JWT Authentication & protected routes
-- 📖 Book CRUD with filters, search, sorting & pagination
-- 🤖 OpenAI API for personalized book recommendations
-- ☁️ Deployed on **Netlify + Vercel + MongoDB Atlas**
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `OpenAI API`
-
-</td>
-<td width="50%">
-
-### 🌿 ZenFlora *(Jun 2025)*
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com) [![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat)](https://demo.com)
-
-An interactive **plant & mindfulness guide** featuring:
-- 🔥 Firebase Authentication + personalized dashboard
-- 🎞️ Smooth animations with **Framer Motion**
-- 📧 EmailJS contact form integration
-- 📱 Mobile-first responsive design
-
-**Stack:** `Next.js` `Tailwind CSS` `Firebase` `Framer Motion`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🖥️ CodeMaster Pro *(Jun 2025)*
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com) [![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat)](https://demo.com)
-
-A modern **coding learning platform UI** with:
-- 🌗 Light/Dark mode support
-- 🧭 Multi-page layout: Courses, About, Auth & more
-- ✅ Form validation + password visibility toggle
-- 🎨 Responsive two-column layout design
-
-**Stack:** `Next.js` `Tailwind CSS` `Lucide React`
-
-</td>
-<td width="50%">
-
-### 🔜 More Coming Soon...
-> Currently building something exciting with **LangChain + LangGraph** 🤖
-
-Stay tuned! Watch & ⭐ the repo to get notified.
-
-</td>
-</tr>
-</table>
+Built and optimized production-grade UIs using **React.js**, **Next.js (SSR)**, and **Ant Design**. Improved component reusability leading to **20–30% faster load times** and reduced UI issues by **40%**. Worked in a collaborative team environment using Git/GitHub for version control.
 
 ---
 
@@ -135,7 +69,6 @@ Stay tuned! Watch & ⭐ the repo to get notified.
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
 
@@ -150,57 +83,9 @@ Stay tuned! Watch & ⭐ the repo to get notified.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform | Stats |
-|----------|-------|
-| 🟡 **LeetCode** | 100+ Problems Solved · **1550+ Rating** |
-| 🔵 **Codeforces** | **800+ Rating** |
-| ⚫ **CodeChef** | Active Participant |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-
----
-
-## 🎯 2025 Goals
-
-- [x] ✅ Complete Frontend Internship at IR-INFOTECH
-- [x] ✅ Build 3+ full-stack projects
-- [ ] 🔄 Reach **1700+ LeetCode** rating
-- [ ] 🔄 Build & launch a **SaaS product**
-- [ ] 🔄 Contribute to **Open Source**
-- [ ] 🔄 Explore **LangGraph + Agentic AI**
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+### 💬 Let's build something together!
 
 📧 **mayank.yadav2024@nst.rishihood.edu.in** · 📱 **+91 8441919251**
 
