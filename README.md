@@ -11,17 +11,17 @@
 <td width="38%" valign="top" align="left">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
 </div>
 
 ### About Me
 
-&nbsp; B.Tech AI · Newton School of Tech  
-&nbsp; Frontend Intern @ **IR-INFOTECH**  
-&nbsp; OpenAI · LangChain · AI-Integrated Apps  
-&nbsp; 100+ LeetCode · **1550+** Rating  
-&nbsp; Codeforces **800+** Rating  
-&nbsp; Full Stack · Scalable · Real-time Systems  
+- 🎓 B.Tech AI · Newton School of Tech
+- 💼 Frontend Intern @ **IR-INFOTECH**
+- 🤖 OpenAI · LangChain · AI-Integrated Apps
+- 🧩 100+ LeetCode · **1550+** Rating
+- ⚔️ Codeforces **800+** Rating
+- 🚀 Full Stack · Scalable · Real-time Systems
 
 <br/>
 
