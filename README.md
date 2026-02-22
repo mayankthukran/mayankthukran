@@ -11,7 +11,7 @@
 <td width="38%" valign="top" align="left">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="100%" style="border-radius:10px"/>
+  <img src="[https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFlN2Zrem40N3AwNnI0YWJwYmhndWZraDkwMWczNTJlZ2s1dWVwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgm7ZJz5LtoyX2Z2N2/giphy.gif)" width="100%" style="border-radius:10px"/>
 </div>
 
 ### About Me
